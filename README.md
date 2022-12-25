@@ -1,12 +1,12 @@
 # BIOSPHERE Resorts
 Executive Team Forum
 
-## Departments
+## Division
 + BIOSPHERE Resorts USA
 + BIOSPHERE Resorts UK
 + BIOSPHERE Resorts GIB
 
-### Divisions
+### Department
 + BIOSPHERE Project Delivery
 + BIOSPHERE Improvement District
 + BIOSPHERE Organics
