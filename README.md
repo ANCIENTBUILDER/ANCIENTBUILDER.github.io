@@ -1,5 +1,5 @@
 # BIOSPHERE Resorts Enterprise
-**Executive Team Forum**
+**Project Statements**
 
 - **MISSION:** Provide rapidly deployable solutions to climate change and the international job crisis.
 - **VISION:** Virtual & physical income opportunities on demand for individuals and businesses worldwide.
