@@ -1,8 +1,8 @@
 # BIOSPHERE Resorts Enterprise
 Executive Team Forum
 
-MISSION: Provide rapidly deployable solutions to climate change and the international job crisis.
-VISION: Virtual & physical income opportunities on demand for individuals and businesses worldwide.
+++ MISSION: Provide rapidly deployable solutions to climate change and the international job crisis.
+++ VISION: Virtual & physical income opportunities on demand for individuals and businesses worldwide.
 
 ## Division
 + BIOSPHERE Resorts USA
