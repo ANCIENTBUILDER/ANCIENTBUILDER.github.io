@@ -1,7 +1,7 @@
 # BIOSPHERE Resorts
 Executive Team Forum
 
-# Departments
+## Departments
 + BIOSPHERE Resorts USA
 + BIOSPHERE Resorts UK
 + BIOSPHERE Resorts GIB
