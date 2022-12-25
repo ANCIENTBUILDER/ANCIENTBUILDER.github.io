@@ -1,4 +1,4 @@
-# BIOSPHERE Resorts
+# BIOSPHERE Resorts Enterprise
 Executive Team Forum
 
 ## Division
