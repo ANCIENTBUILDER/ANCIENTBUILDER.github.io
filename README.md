@@ -29,4 +29,7 @@
 ## **Project Summary**
 This project is the commercialization of BIOSPHERE Resorts© 2016 intellectual properties created by Erik W. Powers.  The success of this project will realize the creation of the first self-sustainable meritocracy of integrity.  This is a humanitarian impact investment that will provide individuals and businesses access to daily income opportunities thorugh a training and sponsorship program and platform that 'teaches people to fish instead of giving them a fish', which is arguably the highest and best use of capital deployment worldwide.  To respect the important nature of this project, and in alignment with the theme of the intellectual properties, operations and staff will function in military fashion with a defined clearance structure.
 
+## **Purpose & Need**
+The United Nations and other organizations have alerted the world to a climate crisis, along with their solutions to it that have demonstrated to be harmful Heagelian Dilectic responses that remove rights from all humans, animals and plants. This project is a rapidly deployable member owned solution to climate change and the international job crisis that is in the highest and best interests of the general public.  
+
 ## For more information visit: www.biosphere-resorts.com
