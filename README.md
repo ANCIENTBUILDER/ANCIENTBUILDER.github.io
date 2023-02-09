@@ -1,21 +1,3 @@
-\documentclass{article}
-\usepackage{markdown}
-\usepackage{tcolorbox}
-\usepackage{etoolbox}
-
-\pretocmd{\markdown}{\begin{tcolorbox}}{}{}
-\def\endmarkdown{\end{tcolorbox}}
-
-\usepackage{lipsum}
-
-\begin{document}
-
-\lipsum[1]
-
-%begin{tcolorbox}
-\begin{markdown}
-
-
 ![BIOSPHERE Resorts bk](https://user-images.githubusercontent.com/51065039/209725979-d2d4cf7a-2521-47ce-af1a-d490fa475c6c.jpg)
 
 # BIOSPHERE Resorts Enterprise
